@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "Copying ${SCRIPT_INPUT_FILE_0} to ${SCRIPT_OUTPUT_FILE_0}"
+cp ${SCRIPT_INPUT_FILE_0} ${SCRIPT_OUTPUT_FILE_0}

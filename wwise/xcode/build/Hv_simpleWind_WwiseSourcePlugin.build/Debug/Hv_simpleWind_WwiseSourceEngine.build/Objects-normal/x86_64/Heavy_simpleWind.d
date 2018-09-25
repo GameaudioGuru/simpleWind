@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/Heavy_simpleWind.cpp \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/Heavy_simpleWind.hpp \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HeavyContext.hpp \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HeavyContextInterface.hpp \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvUtils.h \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvLightPipe.h \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvMessageQueue.h \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvMessage.h \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvMessagePool.h \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvMath.h \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvControlRandom.h \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvHeavyInternal.h \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvHeavy.h \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvTable.h \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvControlBinop.h \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvControlVar.h \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvControlSystem.h \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvControlSlice.h \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvSignalVar.h \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvSignalBiquad.h \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvControlUnop.h \
+  /Users/derrickreyes/Documents/Pd/simpleWind/simple_wind_06_forHeavy/wwise/source/heavy/HvControlCast.h
