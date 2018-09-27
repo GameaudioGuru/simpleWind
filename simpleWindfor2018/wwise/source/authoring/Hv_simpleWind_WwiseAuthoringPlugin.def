@@ -1,0 +1,6 @@
+; Hv_simpleWind_WwiseSourceAuthPlugin.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Hv_simpleWind_WwiseSourceAuthPlugin"
+
+EXPORTS
+    AkCreatePlugin
